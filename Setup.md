@@ -95,13 +95,13 @@ CONFIG = {
 ### 1. Development Mode
 ```bash
 # Basic run
-streamlit run His.py
+streamlit run App.py
 
 # Run with specific port
-streamlit run His.py --server.port 8501
+streamlit run App.py --server.port 8501
 
 # Run in debug mode
-streamlit run His.py --debug
+streamlit run App.py --debug
 ```
 
 ### 2. Production Mode
@@ -110,7 +110,7 @@ streamlit run His.py --debug
 export STREAMLIT_ENV=production
 
 # Run with production settings
-streamlit run His.py --server.address 0.0.0.0 --server.port 8501
+streamlit run App.py --server.address 0.0.0.0 --server.port 8501
 ```
 
 ### 3. Accessing the Application
