@@ -1,6 +1,6 @@
 Advanced Stock Analysis Dashboard (App.py) - Documentation
 Overview
-The Advanced Stock Analysis Dashboard (His.py) is a web-based application that empowers users to analyze stock market data using a variety of technical analysis tools and visualizations. It provides features for:
+The Advanced Stock Analysis Dashboard (App.py) is a web-based application that empowers users to analyze stock market data using a variety of technical analysis tools and visualizations. It provides features for:
 - Visualizing price and volume data.
 - Utilizing technical indicators.
 - Generating forecasts.
